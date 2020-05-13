@@ -5,3 +5,5 @@ only after user registers his information to database will be allowed to login a
  if __name__== "__main__":
     db.create_all()
     app.run(debug=True)
+For more details visit
+https://www.nakshautomation.live/flaskuser
